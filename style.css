@@ -59,4 +59,9 @@ body {
 
 .button, .fa{
     position: absolute;
+
   }
+
+.fa {
+    visibility: hidden;
+}
