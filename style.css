@@ -64,6 +64,9 @@ body {
 
 .fab {
     visibility: hidden;
+    audio:not([controls]){
+        display: block
+}
 }
 
 .fa {
