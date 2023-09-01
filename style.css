@@ -65,3 +65,7 @@ body {
 .fab {
     visibility: hidden;
 }
+
+.fa {
+    visibility: visible;
+}
